@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
  /* cleaned up CSS, consolidated naming  */
-.seo {
+.s-e-o {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,12 +112,12 @@ p {
 }
 
 
-.seo img {
+.s-e-o img {
     max-height: 200px;
 }
 
 
-.seo h2 {
+.s-e-o h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
